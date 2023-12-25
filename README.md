@@ -1,4 +1,5 @@
-Certainly! Let's expand on the description to provide more details about the `readHumidity` function and its role in the code:
+
+![Screenshot (1)](https://github.com/Shrevatsa-saaimurugan/humitity_dector/assets/152064810/315d58c3-958e-4cce-a006-b99fd55b6163)
 
 This C++ code serves as an interface with a DHT11 sensor, specifically engineered for the dual-purpose of measuring both temperature and humidity. The code is structured as follows:
 
